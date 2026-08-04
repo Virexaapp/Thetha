@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thetha</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<h1>Thetha</h1>
+
+<p>Connect. Chat. Share.</p>
+
+<button>Login</button>
+
+<button>Sign Up</button>
+
+<script src="script.js"></script>
+
+</body>
+</html>
